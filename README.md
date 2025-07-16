@@ -86,7 +86,7 @@
     <h2 class="section-title">Contact</h2>
     <p>Email : contact@7sevenboissonenergetique.com<br />
     WhatsApp : +225 07 89 44 11 32<br />
-    Instagram : <a href="https://instagram.com/7sevendrink">@7sevendrink</a></p>
+    Instagram : <a href="https://instagram.com/drink7seven">@drink7seven</a></p>
   </section>
 
   <footer>
